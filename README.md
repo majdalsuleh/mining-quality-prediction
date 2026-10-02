@@ -1,4 +1,3 @@
-# mining-quality-prediction
 # Predicting Silica Impurity in a Mining Flotation Plant
 
 ## Business question
